@@ -1,7 +1,7 @@
 
                 
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
-A tool that remasterd for AIRAVAT tool modefy By Ali noob
+                  modefy By Ali noob
 ## Features
  - Auto permissions
  - Best icon
@@ -14,7 +14,7 @@ A tool that remasterd for AIRAVAT tool modefy By Ali noob
  - Retrive Contacts
  - Send SMS
  - Gets all the Notifications 
- - Keylogger
+ - Keylogger full working
  - Admin Permission 
  - Show Phishing Pages to steal credentials through notification.
     - Steal credentials through pre built phishing pages
@@ -90,8 +90,8 @@ A tool that remasterd for AIRAVAT tool modefy By Ali noob
 
 ## DISCLAIMER
 <p align="center">
- ONLY FOR EDUCATIONAL PURPOSES ONLY
+ Try Own your Risk🌚
 </p>
 
 
-The use of the AIRAVAT is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
+Aypni zymadyari pr use kro:note:use krte ap ky syth koi b issu hwa to hyme 🇮🇳 b fyrk nyi pyrta huee huee
